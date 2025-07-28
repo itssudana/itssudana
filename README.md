@@ -26,7 +26,7 @@ I am an IT Specialist with a focus on Networking and IoT Development. With a pas
   </a>
 </div>
 
-## 👾 Game
+## 👾 Journey
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itssudana/itssudana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itssudana/itssudana/output/pacman-contribution-graph.svg">
