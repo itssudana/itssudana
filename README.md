@@ -104,11 +104,3 @@ I am an IT Specialist with a focus on **Networking and IoT Development**. With a
 </picture>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=itssudana&icon=0&color=12" alt="visit counter" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
