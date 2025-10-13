@@ -1,7 +1,7 @@
 ## 💫 About Me: 
 I am an IT Specialist with a focus on Networking and IoT Developer. With a passion for innovative technologies, I specialize in designing and implementing robust networking solutions while also developing cutting-edge IoT systems. My expertise lies in creating seamless connections and optimizing network performance, all while leveraging the power of IoT to enhance functionality and efficiency. In addition to my technical skills, I possess a strong analytical mindset and a keen eye for detail, allowing me to troubleshoot complex networking issues and develop efficient IoT solutions. I thrive in dynamic environments where I can apply my knowledge to drive technological advancements and deliver impactful results.
 
-## 👨‍💻 All of my projects are available at [https://itssudana.github.io/](https://itssudana.github.io/)
+## 👨‍💻 All of my projects are available at [https://itssudana.github.io/](itssudana.github.io)
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/everydynormalguy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rainnathapro)
