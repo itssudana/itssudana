@@ -1,6 +1,6 @@
 ## 💫 About Me:
 I am an IT Specialist with a focus on 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=5000&pause=2000&color=0981F7&vCenter=true&width=500&lines=Networking+and+IoT+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&duration=3000&pause=1000&color=0981F7&width=400&lines=Networking+and+IoT+Development;IoT+Developer;Front-End+Web+Developer&center=false&repeat=true" alt="Typing SVG" />
 With a passion for innovative technologies, I specialize in designing and implementing robust networking solutions while also developing cutting-edge IoT systems. My expertise lies in creating seamless connections and optimizing network performance, all while leveraging the power of IoT to enhance functionality and efficiency. In addition to my technical skills, I possess a strong analytical mindset and a keen eye for detail, allowing me to troubleshoot complex networking issues and develop efficient IoT solutions. I thrive in dynamic environments where I can apply my knowledge to drive technological advancements and deliver impactful results.
 
 
