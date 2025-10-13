@@ -1,11 +1,11 @@
-## 💫 About Me: 
+## About Me: 
 I am an IT Specialist with a focus on Networking and IoT Developer. With a passion for innovative technologies, I specialize in designing and implementing robust networking solutions while also developing cutting-edge IoT systems. My expertise lies in creating seamless connections and optimizing network performance, all while leveraging the power of IoT to enhance functionality and efficiency. In addition to my technical skills, I possess a strong analytical mindset and a keen eye for detail, allowing me to troubleshoot complex networking issues and develop efficient IoT solutions. I thrive in dynamic environments where I can apply my knowledge to drive technological advancements and deliver impactful results.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssudana&label=Profile%20views&color=0e75b6&style=flat" alt="itssudana" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://itssudana.github.io/](https://itssudana.github.io/)
+-  All of my projects are available at [https://itssudana.github.io/](https://itssudana.github.io/)
 
-- 📫 How to reach me **sudana.works@gmail.com**
+-  How to reach me **sudana.works@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +20,7 @@ I am an IT Specialist with a focus on Networking and IoT Developer. With a passi
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssudana&show_icons=true&locale=en&layout=compact" alt="itssudana" /></p>
 
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itssudana&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ## 🎵 Now Playing
@@ -30,7 +30,7 @@ I am an IT Specialist with a focus on Networking and IoT Developer. With a passi
   </a>
 </div>
 
-## 👾 Journey
+## Journey
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itssudana/itssudana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itssudana/itssudana/output/pacman-contribution-graph.svg">
