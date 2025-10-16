@@ -3,7 +3,7 @@
 I am an IT Specialist with a focus on **Networking and IoT Development**. With a passion for innovative technologies, I specialize in designing and implementing robust networking solutions while also developing cutting-edge IoT systems. My expertise lies in creating seamless connections and optimizing network performance, all while leveraging the power of IoT to enhance functionality and efficiency. In addition to my technical skills, I possess a strong analytical mindset and a keen eye for detail, allowing me to troubleshoot complex networking issues and develop efficient IoT solutions. I thrive in dynamic environments where I can apply my knowledge to drive technological advancements and deliver impactful results.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itssudana&label=Profile%20views&color=0e75b6&style=flat" alt="itssudana" />
+  <img src="https://komarev.com/ghpvc/?username=itssudana&label=Hi there! You are visitor number%20views&color=0e75b6&style=flat" alt="itssudana" />
 </p>
 
 - All of my projects are available at [**https://itssudana.github.io/**](https://itssudana.github.io/)
